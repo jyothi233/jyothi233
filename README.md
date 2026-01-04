@@ -8,17 +8,17 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Analyst;AWS+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Analyst;Product+Manager;AWS+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a **Business Data Associate & Product Management** skilled in building automated **ETL/ELT pipelines**,
+I'm a **Business Data Associate & Product Manager** skilled in building automated **ETL/ELT pipelines**,
 designing scalable **Snowflake + Databricks data models**, and delivering business insights
 through **Power BI, Tableau, SQL**, and **predictive analytics**, while partnering with cross‑functional teams
-to translate customer needs into data‑driven product decisions, roadmaps, and measurable feature outcomes.
+to translate **customer needs** into **data‑driven product decisions**, **roadmaps**, and measurable feature outcomes.
 
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
 
@@ -60,8 +60,10 @@ I love solving complex data problems and turning raw data into meaningful, actio
   <img src="https://img.shields.io/badge/Data%20Quality%20Checks-5C2D91?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 </p>
 
-## 🤖 Machine Learning  
+## 🤖 AI & Machine Learning  
 <p align="left">
+  <img src="https://img.shields.io/badge/Workflow%20Automation-3C873A?style=for-the-badge&logo=WorkflowAutomation&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-3C873A?style=for-the-badge&logo=PromptEngineering&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Classification-3C873A?style=for-the-badge&logo=python&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Regression-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Predictive%20Analytics-0078D4?style=for-the-badge&logo=python&logoColor=white" height="30"/>
@@ -119,6 +121,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
   <img src="https://img.shields.io/badge/JIRA-0A66C2?style=for-the-badge&logo=JIRA&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Trello-4caf50?style=for-the-badge&logo=Trello&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Figma-FF5733?style=for-the-badge&logo=Figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Marvel-0A66C2?style=for-the-badge&logo=Marvel&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Miro-FF9900?style=for-the-badge&logo=Miro&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Slack-555555?style=for-the-badge&logo=Slack&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Notion-7B1FA2?style=for-the-badge&logo=Notion&logoColor=white" height="30"/>
@@ -132,18 +135,24 @@ I love solving complex data problems and turning raw data into meaningful, actio
 
 # 🚀 Featured Projects (Pinned in GitHub)
 
-### 🔹 **Real-Time Supply Chain ML Inference**
-Snowflake · Databricks · Docker · AWS Lambda  
-→ Real-time prediction system for shipment delay detection.
+### 🔹 **NutriFlow – Smart Meal Planning App**
+Product Development & Product Management · UI/UX Design · Prototyping · Usability Testing · Figma · Notion
+→ A smart meal-planning app designed to help busy professionals, families, and health-conscious users simplify healthy eating and reduce food waste.
 
-### 🔹 **AWS Serverless ETL Pipeline**
-→ Automated ingestion + transformation using S3 triggers, Lambda, DynamoDB.
+### 🔹 ** Stock-Investment-Portfolio-Management System**
+→ Created a B2C platform for users using python and SQL to manage stock investments, enabling users to retrieve and track portfolios and transactions. Data visualization was done using tableau.
 
-### 🔹 **Databricks Retail ELT Pipeline**
-→ PySpark + Delta Lake pipeline with retail KPIs and dashboards.
+### 🔹 **Bookshop-Analysis-Storyboard**
+→ The project involves analyzing bookshop data to provide insights into book sales, author performance, and customer engagement. Multiple tables are joined or related using keys . Calculations include total sales, average ratings, sales per writing hour, and profit margins. Dashboards are created for authors, books, and genres, leveraging Tableau features like calculated fields, parameters, and filter actions to present actionable insights for stakeholders.
 
-### 🔹 **Serverless ML Prediction API**
-→ Deployed scikit-learn model on AWS Lambda + API Gateway.
+### 🔹 **UN-Refugee-Dataset-Storyboard**
+→ The "Refugees Storyboard Project" uses Tableau to analyze global refugee trends and demographics, offering insights into displacement patterns and host countries' responses.
+
+### 🔹 **Online-DJ-Management-System_DBMS_project**
+→ Sample Database Management System (DBMS) application to develop a system that effectively manages all the data related to various DJ events that take place in a function by using HTML, JavaScript, CSS and PHP fundamentals.
+
+### 🔹 **Automatic_generation_of_git_commit_messages_Machine_learning_project**
+→ We use git commit messages to keep track of the changes that is made in the code by the team.
 
 ---
 

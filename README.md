@@ -103,7 +103,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
 <td width="50%" valign="top">
 
 
-## 📘 Product Management
+## 👩‍💻 Product Management
 <p align="left">
   <img src="https://img.shields.io/badge/Product%20Roadmapping-0A66C2?style=for-the-badge&logo=productroadmapping&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Sprint%20Planning-4caf50?style=for-the-badge&logo=SprintPlanning&logoColor=white" height="30"/>

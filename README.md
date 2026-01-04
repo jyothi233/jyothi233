@@ -54,10 +54,8 @@ I love solving complex data problems and turning raw data into meaningful, actio
 ## 🔧 ETL & Data Engineering  
 <p align="left">
   <img src="https://img.shields.io/badge/ETL%2FELT-3776AB?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Data%20Quality%20Checks-5C2D91?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 </p>
 
@@ -65,7 +63,6 @@ I love solving complex data problems and turning raw data into meaningful, actio
 <p align="left">
   <img src="https://img.shields.io/badge/Classification-3C873A?style=for-the-badge&logo=python&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Regression-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Predictive%20Analytics-0078D4?style=for-the-badge&logo=python&logoColor=white" height="30"/>
 </p>
 
@@ -102,6 +99,10 @@ I love solving complex data problems and turning raw data into meaningful, actio
   <img src="https://img.shields.io/badge/Documentation-555555?style=for-the-badge&logo=readthedocs&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-7B1FA2?style=for-the-badge&logo=microsoft-teams&logoColor=white" height="30"/>
 </p>
+
+## 📘 Product Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Product%20Roadmapping-0A66C2?style=for-the-badge&logo=target&logoColor=white" height="30"/>
 
 </td>
 </tr>

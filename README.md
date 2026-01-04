@@ -151,6 +151,9 @@ Product Development & Product Management · UI/UX Design · Prototyping · Usabi
 ### 🔹 **Online-DJ-Management-System_DBMS_project**
 → Sample Database Management System (DBMS) application to develop a system that effectively manages all the data related to various DJ events that take place in a function by using HTML, JavaScript, CSS and PHP fundamentals.
 
+### 🔹 **Keynest_Technology-and-Innovation-management**
+→ KeyNest is a Marvel App prototype for a secure, student‑focused housing platform that streamlines rentals with verified listings, clear user flows, and safer communication to reduce scams for international students.
+
 ### 🔹 **Automatic_generation_of_git_commit_messages_Machine_learning_project**
 → We use git commit messages to keep track of the changes that is made in the code by the team.
 

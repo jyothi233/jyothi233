@@ -105,6 +105,26 @@ I love solving complex data problems and turning raw data into meaningful, actio
   <img src="https://img.shields.io/badge/Product%20Roadmapping-0A66C2?style=for-the-badge&logo=productroadmapping&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Sprint%20Planning-4caf50?style=for-the-badge&logo=SprintPlanning&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Go%20To%20Market%20Strategy-FF5733?style=for-the-badge&logo=Gotomarketstrategy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Customer%20Feedback%20Analysis-FF9900?style=for-the-badge&logo=CustomerFeedbackAnalysis&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Market%20Research-555555?style=for-the-badge&logo=MarketResearch&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/A/B%20Testing-7B1FA2?style=for-the-badge&logo=ABTesting&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/UI/UX-0A66C2?style=for-the-badge&logo=UIUX&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/User%20Research-4caf50?style=for-the-badge&logo=User Research&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Usability%20Testing-FF5733?style=for-the-badge&logo=UsabilityTesting&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Strategic%20Thinking-FF9900?style=for-the-badge&logo=StrategicThinking&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Project%20Management-555555?style=for-the-badge&logo=ProjectManagement&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Wireframing-7B1FA2?style=for-the-badge&logo=Wireframing&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Product%20Requirement%20Documentation-FF5733?style=for-the-badge&logo=ProductRequirementDocumentation&logoColor=white" height="30"/>
+  
+  <img src="https://img.shields.io/badge/JIRA-0A66C2?style=for-the-badge&logo=JIRA&logoColor=white" height="30"/>
+  <img height="30" alt="download" src="https://github.com/user-attachments/assets/a4be83e8-bcf2-45f6-84da-ed3162dfda52" />
+
+
+  <img src="https://img.shields.io/badge/User%20Research-4caf50?style=for-the-badge&logo=User Research&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Usability%20Testing-FF5733?style=for-the-badge&logo=UsabilityTesting&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Strategic%20Thinking-FF9900?style=for-the-badge&logo=StrategicThinking&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Project%20Management-555555?style=for-the-badge&logo=ProjectManagement&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Wireframing-7B1FA2?style=for-the-badge&logo=Wireframing&logoColor=white" height="30"/>
 
 </td>
 </tr>

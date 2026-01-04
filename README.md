@@ -1,10 +1,10 @@
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nagajyothi Mysore Sathyanarayanarao&color=blue&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=jyothi233&color=blue&style=for-the-badge">
 </p>
 
-<h1 align="center">👋 Hi, I'm <b>Nagajyothi Mysore Sathyanrayanarao</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Nagajyothi Mysore Sathyanarayanarao</b></h1>
 
 <!-- Typing Animation -->
 <p align="center">

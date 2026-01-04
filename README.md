@@ -1,29 +1,29 @@
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asakharkar7&color=blue&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Nagajyothi Mysore Sathyanarayanarao&color=blue&style=for-the-badge">
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Nagajyothi Mysore Sathyanrayanarao</b></h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Engineer;Data+Analyst;Machine+Learning+Practitioner;ETL+%2F+ELT+Developer;AWS+%7C+Snowflake+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;BusinessAnalyst;AWS+%7C+Snowflake+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a **Data Engineer & Data Analyst** skilled in building automated **ETL/ELT pipelines**,  
+I'm a **Business Analyst & Data Analyst** skilled in building automated **ETL/ELT pipelines**,  
 designing scalable **Snowflake + Databricks data models**, and delivering business insights  
 through **Power BI, Tableau, SQL**, and **predictive analytics**.
 
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
 
-📍 Lancaster, PA, USA  
-📧 **aniketsakharkar4@gmail.com**  
-🌐 https://asakharkar7.github.io/Aniket-Portfolio/
+📍 Buffalo, NY, USA  
+📧 **njyothi3k@gmail.com**  
+🌐 https://nagajyothims-portfolio-7oae436.gamma.site/
 ---
 
 # 🖥️ Skills | Technology | Tools  

@@ -35,11 +35,8 @@ I love solving complex data problems and turning raw data into meaningful, actio
 ## 🧩 Programming & Analytics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img width="1280" height="634" alt="SAP_2011_logo svg" src="https://github.com/user-attachments/assets/03eafeaa-be0e-480a-9e4f-94a042ed0367" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
 </p>
 

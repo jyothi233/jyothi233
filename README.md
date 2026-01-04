@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Analyst;AWS+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Analyst;AWS+Databricks;Turning+Data+Into+Impactful+Insights" />
 </p>
 
 ---

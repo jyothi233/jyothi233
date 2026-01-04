@@ -15,8 +15,7 @@
 
 ## 🌟 About Me
 
-I'm a **Business Analyst & Data Analyst** skilled in building automated **ETL/ELT pipelines**,  
-designing scalable **Snowflake + Databricks data models**, and delivering business insights  
+I'm a **Business Analyst & Data Analyst** skilled in building automated **ETL/ELT pipelines**,  designing scalable **Snowflake + Databricks data models**, and delivering business insights  
 through **Power BI, Tableau, SQL**, and **predictive analytics**.
 
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
@@ -161,9 +160,9 @@ Snowflake · Databricks · Docker · AWS Lambda
 # 🔗 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://www.linkedin.com/in/njyothi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 &nbsp;&nbsp;
-<a href="mailto:aniketsakharkar4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+<a href="mailto:njyothi3k@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 &nbsp;&nbsp;
-<a href="https://asakharkar7.github.io/Aniket-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
+<a href="https://nagajyothims-portfolio-7oae436.gamma.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
 </p>

@@ -22,7 +22,7 @@ to translate **customer needs** into **data‑driven product decisions**, **road
 
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
 
-📍 Buffalo, NY, USA  
+📍 Buffalo, NY, USA (Open to relocation)  
 📧 **njyothi3k@gmail.com**  
 🌐 https://nagajyothims-portfolio-7oae436.gamma.site/
 ---

@@ -139,7 +139,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
 Product Development & Product Management · UI/UX Design · Prototyping · Usability Testing · Figma · Notion
 → A smart meal-planning app designed to help busy professionals, families, and health-conscious users simplify healthy eating and reduce food waste.
 
-### 🔹 ** Stock-Investment-Portfolio-Management System**
+### 🔹 **Stock-Investment-Portfolio-Management System**
 → Created a B2C platform for users using python and SQL to manage stock investments, enabling users to retrieve and track portfolios and transactions. Data visualization was done using tableau.
 
 ### 🔹 **Bookshop-Analysis-Storyboard**

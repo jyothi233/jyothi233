@@ -15,7 +15,10 @@
 
 ## 🌟 About Me
 
-I'm a **Business Analyst & Data Analyst** skilled in building automated **ETL/ELT pipelines**,  designing scalable **Snowflake + Databricks data models**, and delivering business insights through **Power BI, Tableau, SQL**, and **predictive analytics**.
+I'm a **Business Data Associate & Product Management** skilled in building automated **ETL/ELT pipelines**,
+designing scalable **Snowflake + Databricks data models**, and delivering business insights
+through **Power BI, Tableau, SQL**, and **predictive analytics**, while partnering with cross‑functional teams
+to translate customer needs into data‑driven product decisions, roadmaps, and measurable feature outcomes.
 
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
 

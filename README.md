@@ -36,7 +36,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img width="1280" height="634" alt="SAP_2011_logo svg" src="https://github.com/user-attachments/assets/03eafeaa-be0e-480a-9e4f-94a042ed0367" />
+  <img height="45" alt="SAP_2011_logo svg" src="https://github.com/user-attachments/assets/03eafeaa-be0e-480a-9e4f-94a042ed0367" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
 </p>
 

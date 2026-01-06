@@ -11,6 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Analyst;Product+Manager;AWS+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
 </p>
 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/jyothi233/jyothi233/main/public/karAvatar.png" width="290" height="290" alt="Original 'jyothi233' avatar.">
+</p>
 ---
 
 ## 🌟 About Me
@@ -166,7 +169,6 @@ Product Development & Product Management · UI/UX Design · Prototyping · Usabi
   <img src="https://raw.githubusercontent.com/Asakharkar7/Asakharkar7/main/dist/github-contribution-grid-snake.svg" 
        alt="GitHub Contribution Snake" />
 </p>
-
 
 ---
 

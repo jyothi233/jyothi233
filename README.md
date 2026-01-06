@@ -12,7 +12,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/jyothi233/jyothi233/main/public/karAvatar.png" width="290" height="290" alt="Original 'jyothi233' avatar.">
+  <img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/jyothi233/jyothi233/main/assets/jyothi233-workspace.gif" />
 </p>
 ---
 

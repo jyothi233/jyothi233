@@ -26,7 +26,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
 
 📍 Buffalo, NY, USA (Open to relocation)  
 📧 **njyothi3k@gmail.com**  
-🌐 [https://nagajyothims-portfolio-7oae436.gamma.site/](https://nagajyothimsportfolio.base44.app/)
+🌐 https://nagajyothims-portfolio-7oae436.gamma.site/](https://nagajyothimsportfolio.base44.app/
 ---
 
 # 🖥️ Skills | Technology | Tools  

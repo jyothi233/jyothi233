@@ -25,8 +25,8 @@ to translate **customer needs** into **data‑driven product decisions**, **road
 I love solving complex data problems and turning raw data into meaningful, actionable insights.
 
 📍 Buffalo, NY, USA (Open to relocation)  
-📧 **njyothi3k@gmail.com**  
-### 👾 [https://dev-quest--njyothi3k.replit.app/](https://dev-quest--njyothi3k.replit.app/) <br> 🌐 [https://opwc4m23n5wpm.ok.kimi.link/](https://opwc4m23n5wpm.ok.kimi.link/)
+📧 [njyothi3k@gmail.com](mailto:njyothi3k@gmail.com)
+## 👾 [https://dev-quest--njyothi3k.replit.app/](https://dev-quest--njyothi3k.replit.app/) <br> 🌐 [https://opwc4m23n5wpm.ok.kimi.link/](https://opwc4m23n5wpm.ok.kimi.link/)
 ---
 
 # 🖥️ Skills | Technology | Tools  

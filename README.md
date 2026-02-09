@@ -31,6 +31,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
     <td><h1>👾 <a href="https://dev-quest--njyothi3k.replit.app/">https://dev-quest--njyothi3k.replit.app/</a><br>🌐 <a href="https://opwc4m23n5wpm.ok.kimi.link/">https://opwc4m23n5wpm.ok.kimi.link/</a></h1></td>
   </tr>
 </table>
+---
 
 # 🖥️ Skills | Technology | Tools  
 

@@ -26,6 +26,7 @@ I love solving complex data problems and turning raw data into meaningful, actio
 
 📍 Buffalo, NY, USA (Open to relocation)  
 📧 **njyothi3k@gmail.com**
+👩‍💼 https://nagajyothims-portfolio-7oae436.gamma.site/
 <table>
   <tr>
     <td><h1>👾 <a href="https://dev-quest--njyothi3k.replit.app/">https://dev-quest--njyothi3k.replit.app/</a><br>🌐 <a href="https://opwc4m23n5wpm.ok.kimi.link/">https://opwc4m23n5wpm.ok.kimi.link/</a></h1></td>

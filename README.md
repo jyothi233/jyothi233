@@ -164,7 +164,7 @@ nagajyothi = {
 
 `🏢 Community Dreams Foundation` &nbsp;·&nbsp; `Business Analyst` &nbsp;·&nbsp; `Sep 2025 – Present`
 
-**Non-Profit · Digital Transformation · Operations Optimization**
+** · Digital Transformation · Operations Optimization**
 
 </div>
 

@@ -10,7 +10,7 @@
                           M Y S O R E   S A T H Y A N A R A Y A N A R A O
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Business+Analyst+%7C+Data+Strategist+%7C+ETL+Architect;Ex-KPMG+Big+4+%7C+UB+MIS+Grad+%7C+Buffalo%2C+NY;%242M%2B+saved+%C2%B7+80%25+efficiency+%C2%B7+98%25+satisfaction;I+turn+data+chaos+into+business+clarity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=1DB954&center=true&vCenter=true&width=900&lines=Business+Analyst+%7C+Data+Strategist+%7C+ETL+Architect;Ex-KPMG+Big+4+%7C+UB+MIS+Grad+%7C+Buffalo%2C+NY;%242M%2B+saved+%C2%B7+80%25+efficiency+%C2%B7+98%25+satisfaction;I+turn+data+chaos+into+business+clarity)](https://git.io/typing-svg)
 
 <br/>
 

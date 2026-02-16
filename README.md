@@ -1,187 +1,215 @@
-# 👀 Profile Views
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jyothi233&color=blue&style=for-the-badge">
-</p>
+# 👋 Hi, I'm Nagajyothi MS
 
-<h1 align="center">👋 Hi, I'm <b>Nagajyothi Mysore Sathyanarayanarao</b></h1>
+### Business Analyst | Data Strategist | Product Visionary
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Analyst;Product+Manager;AWS+%7C+Databricks;Turning+Data+Into+Impactful+Insights" />
-</p>
+*I turn data chaos into business clarity — bridging technical complexity with strategic impact*
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/njyothi)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagajyothims2000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jyothi233)
 
-## 🌟 About Me
-
-I'm a **Business Data Associate & Product Manager** skilled in building automated **ETL/ELT pipelines**,
-designing scalable **Snowflake + Databricks data models**, and delivering business insights
-through **Power BI, Tableau, SQL**, and **predictive analytics**, while partnering with cross‑functional teams
-to translate **customer needs** into **data‑driven product decisions**, **roadmaps**, and measurable feature outcomes.
-
-I love solving complex data problems and turning raw data into meaningful, actionable insights.
-
-📍 Buffalo, NY, USA (Open to relocation)  
-📧 **njyothi3k@gmail.com**
-<table>
-  <tr>
-    <td><h1>👾 <a href="https://dev-quest--njyothi3k.replit.app/">Digital Portfolio</a><br>🌐 <a href="https://opwc4m23n5wpm.ok.kimi.link/">Live Project Hub</a></h1></td>
-  </tr>
-</table>
----
-
-# 🖥️ Skills | Technology | Tools  
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## 🧩 Programming & Analytics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img height="45" alt="SAP_2011_logo svg" src="https://github.com/user-attachments/assets/03eafeaa-be0e-480a-9e4f-94a042ed0367" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
-</p>
-
-## 📊 BI & Visualization  
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>  
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-## 🔧 ETL & Data Engineering  
-<p align="left">
-  <img src="https://img.shields.io/badge/ETL%2FELT-3776AB?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Data%20Quality%20Checks-5C2D91?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-</p>
-
-## 🤖 AI & Machine Learning  
-<p align="left">
-  <img src="https://img.shields.io/badge/Workflow%20Automation-3C873A?style=for-the-badge&logo=WorkflowAutomation&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-3C873A?style=for-the-badge&logo=PromptEngineering&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Classification-3C873A?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Regression-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-0078D4?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+## 💼 **My Superpower: I Speak Both Languages**
 
-## ☁️ Cloud & Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/API%20Gateway-FF4F00?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="30"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="45"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="45"/>
-</p>
+I translate **technical complexity for executives** and **business needs for engineers** — driving measurable impact through data-driven insights and strategic product decisions.
 
-## 📘 Business & Collaboration  
-<p align="left">
-  <img src="https://img.shields.io/badge/KPI%20Development-0A66C2?style=for-the-badge&logo=target&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Requirements%20Gathering-4caf50?style=for-the-badge&logo=notion&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-FF5733?style=for-the-badge&logo=googleanalytics&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Documentation-555555?style=for-the-badge&logo=readthedocs&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-7B1FA2?style=for-the-badge&logo=microsoft-teams&logoColor=white" height="30"/>
-</p>
-</td>
-<td width="50%" valign="top">
+### 🎯 **Impact in Numbers**
 
-
-## 👩‍💻 Product Management
-<p align="left">
-  <img src="https://img.shields.io/badge/Product%20Roadmapping-0A66C2?style=for-the-badge&logo=productroadmapping&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Sprint%20Planning-4caf50?style=for-the-badge&logo=SprintPlanning&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Go%20To%20Market%20Strategy-FF5733?style=for-the-badge&logo=Gotomarketstrategy&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Customer%20Feedback%20Analysis-FF9900?style=for-the-badge&logo=CustomerFeedbackAnalysis&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Market%20Research-555555?style=for-the-badge&logo=MarketResearch&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/A/B%20Testing-7B1FA2?style=for-the-badge&logo=ABTesting&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/UI/UX-0A66C2?style=for-the-badge&logo=UIUX&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/User%20Research-4caf50?style=for-the-badge&logo=UserResearch&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Usability%20Testing-FF5733?style=for-the-badge&logo=UsabilityTesting&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Strategic%20Thinking-FF9900?style=for-the-badge&logo=StrategicThinking&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Project%20Management-555555?style=for-the-badge&logo=ProjectManagement&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Wireframing-7B1FA2?style=for-the-badge&logo=Wireframing&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Product%20Requirement%20Documentation-FF5733?style=for-the-badge&logo=ProductRequirementDocumentation&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JIRA-0A66C2?style=for-the-badge&logo=JIRA&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Trello-4caf50?style=for-the-badge&logo=Trello&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Figma-FF5733?style=for-the-badge&logo=Figma&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Marvel-0A66C2?style=for-the-badge&logo=Marvel&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Miro-FF9900?style=for-the-badge&logo=Miro&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Slack-555555?style=for-the-badge&logo=Slack&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Notion-7B1FA2?style=for-the-badge&logo=Notion&logoColor=white" height="30"/>
-
-</td>
-</tr>
-</table>
-
+```
+💰 $2M+      Cost savings uncovered for Fortune 500 clients
+📈 40%       Process efficiency improvement
+🚀 37%       Online brand visibility growth  
+⚡ 56%       Reduction in manual processing time
+📊 30%       Increase in trial-to-paid conversions
+✅ 99.9%     Data pipeline accuracy (10M+ transactions/month)
+```
 
 ---
 
-# 🚀 Featured Projects (Pinned in GitHub)
+## 🏆 **What Makes Me Different**
 
-### 🔹 **NutriFlow – Smart Meal Planning App**
-Product Development & Product Management · UI/UX Design · Prototyping · Usability Testing · Figma · Notion
-→ A smart meal-planning app designed to help busy professionals, families, and health-conscious users simplify healthy eating and reduce food waste.
+**Ex-KPMG Business Analyst** | **MIS Graduate @ University at Buffalo** | **CSPO® Certified**
 
-### 🔹 **Stock-Investment-Portfolio-Management System**
-→ Created a B2C platform for users using python and SQL to manage stock investments, enabling users to retrieve and track portfolios and transactions. Data visualization was done using tableau.
+✨ **Unique Combination:**
+- 3+ years in Big 4 consulting + startup product environments
+- Technical depth (ETL, SQL, Python) + Business acumen (BRD, BPMN, Product Strategy)
+- Data Analytics + Product Management + Process Optimization
 
-### 🔹 **Bookshop-Analysis-Storyboard**
-→ The project involves analyzing bookshop data to provide insights into book sales, author performance, and customer engagement. Multiple tables are joined or related using keys . Calculations include total sales, average ratings, sales per writing hour, and profit margins. Dashboards are created for authors, books, and genres, leveraging Tableau features like calculated fields, parameters, and filter actions to present actionable insights for stakeholders.
-
-### 🔹 **UN-Refugee-Dataset-Storyboard**
-→ The "Refugees Storyboard Project" uses Tableau to analyze global refugee trends and demographics, offering insights into displacement patterns and host countries' responses.
-
-### 🔹 **Online-DJ-Management-System_DBMS_project**
-→ Sample Database Management System (DBMS) application to develop a system that effectively manages all the data related to various DJ events that take place in a function by using HTML, JavaScript, CSS and PHP fundamentals.
-
-### 🔹 **Keynest_Technology-and-Innovation-management**
-→ KeyNest is a Marvel App prototype for a secure, student‑focused housing platform that streamlines rentals with verified listings, clear user flows, and safer communication to reduce scams for international students.
-
-### 🔹 **Automatic_generation_of_git_commit_messages_Machine_learning_project**
-→ We use git commit messages to keep track of the changes that is made in the code by the team.
+🎓 **Recent Graduate Advantage:** Fresh perspective + cutting-edge methodologies + hunger to prove myself
 
 ---
 
+## 🛠️ **Technical Arsenal**
 
-## Contributions
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asakharkar7/Asakharkar7/main/dist/github-contribution-grid-snake.svg" 
-       alt="GitHub Contribution Snake" />
-</p>
+### **Business Analysis & Product**
+![BPMN](https://img.shields.io/badge/BPMN-Process_Modeling-FF6B35?style=flat-square)
+![BRD](https://img.shields.io/badge/BRD-Requirements-4A90E2?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-Scrum-00897B?style=flat-square)
+![CSPO](https://img.shields.io/badge/CSPO®-Certified-FF9800?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT-Testing-7B1FA2?style=flat-square)
+![User Research](https://img.shields.io/badge/User_Research-20+_Interviews-E91E63?style=flat-square)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-Roadmapping-F06292?style=flat-square)
+
+### **Data & Analytics**
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Analytics-276DC3?style=flat-square&logo=r)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=flat-square&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power_BI-Visualization-F2C811?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws)
+
+### **Enterprise Systems & ETL**
+![SAP](https://img.shields.io/badge/SAP-ERP-0FAAFF?style=flat-square&logo=sap)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle)
+![Workday](https://img.shields.io/badge/Workday-HCM-0066FF?style=flat-square)
+![Epicor](https://img.shields.io/badge/Epicor-ERP-FF6B35?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-4285F4?style=flat-square)
+
+### **Tools & Platforms**
+![Jira](https://img.shields.io/badge/Jira-Project_Management-0052CC?style=flat-square&logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?style=flat-square&logo=confluence)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
+## 💡 **Recent Wins & Projects**
 
-# 🔗 Connect With Me
+### 🎯 **Community Dreams Foundation** | *Business Analyst* (Current)
+**Challenge:** Non-profit struggling with visibility and inefficient claim processing  
+**My Approach:** Dashboard development + Process optimization + Stakeholder alignment  
+**Impact:** 37% ↑ brand visibility | 56% ↓ processing time | 15% ↑ data-driven decisions
 
-<p align="center">
-<a href="https://www.linkedin.com/in/njyothi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-&nbsp;&nbsp;
-<a href="mailto:njyothi3k@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-&nbsp;&nbsp;
-<a href="https://nagajyothims-portfolio-7oae436.gamma.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
-</p>
+**Key Techniques:** BPMN workflow visualization, UAT validation, Agile sprints, cross-functional leadership
+
+---
+
+### 🔐 **Legacy Guard** | *Product Analyst* (Capstone Project)
+**Challenge:** Launch secure digital vault for credential inheritance from concept to market  
+**My Approach:** User research → Product requirements → Competitive analysis → Backlog prioritization  
+**Impact:** 30% increase in trial-to-paid conversions
+
+**Competitive Edge:** Differentiated from LastPass, Bitwarden & Dropbox through targeted feature positioning
+
+---
+
+### 💼 **KPMG US** | *Business Data Analyst*
+**Challenge:** Fortune 500 clients with complex data across SAP, Oracle, Epicor, Workday  
+**My Approach:** Built ETL pipelines + Advanced analytics + Executive dashboards  
+**Impact:** $2M cost savings identified | 80% ↓ manual effort | 99.9% accuracy at scale
+
+**Enterprise Tools:** SAP, Oracle, Epicor, Workday, Tableau, Power BI, SQL, Python
+
+---
+
+## 🎓 **Education & Certifications**
+
+🎓 **Master of Science in Management Information Systems**  
+*University at Buffalo, State University of New York* (2024-2025)
+
+🎓 **Bachelor of Engineering in Computer Science**  
+*BNM Institute of Technology* (2018-2022)
+
+📜 **Certifications:**
+- ✅ Certified Scrum Product Owner (CSPO®)
+- ✅ Google Data Analytics Professional Certificate
+- ✅ Data Analysis with R Programming
+- ✅ Share Data Through the Art of Visualization
+- ✅ Introduction to Programming Using Python
+
+---
+
+## 🏅 **Recognition & Publications**
+
+🏆 **Awards:**
+- 🌟 **Guinness World Record** — Microsoft AI Skills Fest
+- 🎖️ Client Service Excellency Award (KPMG)
+- ⭐ Rising Star Award – Q1 (KPMG)
+- 🏆 Best Project Award
+
+📝 **Publication:**
+- ["Automatically Generate Git Commit Messages Using NMT"](https://github.com/jyothi233) — Neural Machine Translation research
+
+---
+
+## 📊 **My Methodology**
+
+```mermaid
+graph LR
+    A[Business Problem] --> B[Stakeholder Analysis]
+    B --> C[Data Collection]
+    C --> D[Advanced Analytics]
+    D --> E[Insights Generation]
+    E --> F[BRD/Requirements]
+    F --> G[Solution Design]
+    G --> H[Implementation]
+    H --> I[Validation & UAT]
+    I --> J[Measurable Impact]
+    
+    style A fill:#FF6B35
+    style J fill:#00C853
+```
+
+**My Process:**
+1. 🎯 **Discovery:** Deep-dive stakeholder interviews + pain point mapping
+2. 📊 **Analysis:** ETL pipeline setup + SQL queries + Python analytics + Visualization
+3. 📋 **Documentation:** BRDs, user stories, BPMN diagrams, technical specs
+4. 🔄 **Iteration:** Agile sprints + continuous feedback + UAT validation
+5. 📈 **Impact Tracking:** KPI dashboards + ROI measurement + stakeholder reporting
+
+---
+
+## 🌍 **Languages**
+
+🗣️ **English** (Full Professional) | **Hindi** (Native) | **Kannada** (Native) | **Korean** (Elementary)
+
+---
+
+## 🚀 **What I'm Looking For**
+
+I'm seeking a **full-time Business Analyst, Data Analyst, or Product Analyst role** where I can:
+
+✅ Drive strategic decisions through data-driven insights  
+✅ Bridge technical and business teams for seamless execution  
+✅ Own end-to-end product or process optimization initiatives  
+✅ Create measurable impact on revenue, efficiency, or customer satisfaction  
+
+**Ideal Environment:** Fast-paced, data-driven organizations (tech, fintech, healthcare, consulting) that value innovation and measurable results.
+
+---
+
+## 📫 **Let's Connect**
+
+I'm passionate about solving complex business problems through data and product strategy. If you're looking for someone who can:
+- 💼 Understand your business context deeply
+- 🔍 Uncover insights hidden in your data
+- 🎯 Translate technical complexity into executive strategy
+- 📈 Deliver measurable ROI
+
+**Let's talk!**
+
+📧 **Email:** [nagajyothims2000@gmail.com](mailto:nagajyothims2000@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/njyothi](https://www.linkedin.com/in/njyothi)  
+📱 **Open to:** Full-time opportunities | Immediate availability
+
+---
+
+<div align="center">
+
+### 💬 "I don't just analyze data — I transform it into decisions that drive business growth"
+
+![Profile Views](https://komarev.com/ghpvc/?username=jyothi233&color=blueviolet&style=flat-square)
+
+**⭐ If my profile resonates with your needs, let's connect!**
+
+</div>

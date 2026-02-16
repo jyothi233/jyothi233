@@ -182,6 +182,96 @@ Challenge_2:
   outcome: "15% ↓ report generation time"
 ```
 
+---
+
+## 💼 &nbsp; Additional Professional Experience
+
+### 🎯 Ruffalo Noel Levitz | Engagement Operations Ambassador
+**University at Buffalo, NY | Mar 2025 – May 2025 (3 months)**
+
+<table>
+<tr>
+<td width="60%">
+
+**What I Did:**
+- Managed multi-channel outreach campaigns to 5,000+ alumni and donors via RNL Engage platform
+- Achieved 98% transaction accuracy under pressure, contributing to successful university fundraising efforts
+- Increased alumni campaign participation by 15% through targeted engagement strategies
+
+</td>
+<td width="40%">
+
+**Impact:**
+- 📊 **5,000+** contacts managed
+- ✅ **98%** accuracy rate
+- 📈 **15% ↑** participation
+
+**Skills:** Stakeholder Engagement · Data Management · Fundraising · Communication
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔐 Legacy Guard | Product Analyst
+**University at Buffalo, NY | Jan 2025 – May 2025 (5 months)**
+
+**Experiential IT Apprenticeship - MIS Capstone Project**
+
+<table>
+<tr>
+<td width="50%">
+
+**The Challenge:**
+- Launch a secure digital vault for credential inheritance
+- Compete with established players (LastPass, Bitwarden, Dropbox Vault)
+- Convert trial users to paid subscribers
+- Validate product-market fit
+
+</td>
+<td width="50%">
+
+**My Approach:**
+- Led product development from concept to launch
+- Conducted 20+ user research interviews
+- Translated insights into product requirements
+- Managed product backlog and prioritization
+- Performed competitive analysis
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**📈 Results:**
+- ✅ **30% increase** in trial-to-paid conversions
+- ✅ Product launched on schedule and within budget
+- ✅ Identified 3 key differentiators vs. competitors
+- ✅ Created 12-month product roadmap
+- ✅ Achieved 4.5/5 user satisfaction score
+
+**Skills Applied:** Product Strategy · User Research · BRD · Competitive Analysis · Agile · CSPO® · UAT · Product Backlog Management
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔒 TEQUED LABS PVT LTD | Analyst
+**Bangalore, India | Aug 2021 – Sep 2021 (2 months)**
+
+**Cybersecurity & Data Security Internship**
+
+- Focused on **LSB Image Steganography** to hide confidential images using advanced decoding techniques
+- Acquired proficiency in **ethical hacking and cybersecurity**, enhancing secure data handling techniques
+- Developed skills in **Java** for server-side applications and **Python** for security tasks
+- Gained knowledge of **MySQL** and contributed to safeguarding high-security data, including sensitive passwords
+
+**Skills:** Ethical Hacking · Cybersecurity · Java · Python · MySQL · Data Security · Image Steganography
+
+---
 **Key Skills Applied:** Requirements Gathering · Dashboard Development · Stakeholder Management · Data Analysis · Process Automation
 
 ---

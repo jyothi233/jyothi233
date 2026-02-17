@@ -674,17 +674,33 @@ BA METHODOLOGY
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyothi233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothi233&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=jyothi233&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothi233&theme=tokyonight&hide_border=true" />
+
+### 💻 Technical Activity
+
+**Active Since:** December 2020 | **Total Contributions:** 266+ | **Current Streak:** 1 day
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyothi233&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+### 🔥 Portfolio Highlights
+
+**8 Projects** | **3+ Years Experience** | **SQL · Python · Tableau · R · Power BI**
+
+📊 COVID-19 Analysis · 🍽️ NutriFlow · 📈 Stock Portfolio · 📚 Bookshop Analysis  
+🌍 UN Refugee Data · 🎵 DJ Management · 🏠 KeyNest · 🤖 Git ML Research
+
 </div>
+
+---
 
 ---
 

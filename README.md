@@ -418,26 +418,7 @@ BA METHODOLOGY
 
 ---
 
-## 📚 &nbsp; Academic Projects — Applying Theory to Practice
-
-### 📈 Stock Portfolio Management System
-**University at Buffalo | Jan 2025 – May 2025**
-
-- Innovated B2C stock investment platform addressing tracking gaps
-- **Tech Stack:** Python, SQL, Tableau
-- **Impact:** 20% ↑ engagement, 30% ↑ tracking efficiency
-
----
-
-### 📚 Bookshop Inventory Analysis
-**University at Buffalo | Jul 2024 – Dec 2024**
-
-- Created Tableau dashboard identifying top 5 performing book categories
-- **Tech Stack:** Tableau, SQL, Data Visualization
-- **Impact:** 60% improvement in restocking accuracy
-
----
-## 📁 &nbsp; Project Portfolio — Real Work, Public & Verifiable
+## 📁 &nbsp; Project Portfolio — Academic & Real Impact
 
 > *Eight projects targeting exactly the roles above. Built with real public data. Pinned on this profile.*
 

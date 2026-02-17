@@ -669,7 +669,6 @@ BA METHODOLOGY
   ◉  Data Governance Documentation               — policies, procedures, standards
 ```
 
----
 
 ## 📊 &nbsp; GitHub Stats
 
@@ -681,28 +680,8 @@ BA METHODOLOGY
 
 </div>
 
-<div align="center">
-
-### 💻 Technical Activity
-
-**Active Since:** December 2020 | **Total Contributions:** 266+ | **Current Streak:** 1 day
-
-</div>
-
-<div align="center">
-
-### 🔥 Portfolio Highlights
-
-**8 Projects** | **3+ Years Experience** | **SQL · Python · Tableau · R · Power BI**
-
-📊 COVID-19 Analysis · 🍽️ NutriFlow · 📈 Stock Portfolio · 📚 Bookshop Analysis  
-🌍 UN Refugee Data · 🎵 DJ Management · 🏠 KeyNest · 🤖 Git ML Research
-
-</div>
-
 ---
 
----
 
 ## 💡 &nbsp; What I'm Currently Building
 

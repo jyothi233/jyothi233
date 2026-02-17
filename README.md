@@ -437,6 +437,182 @@ BA METHODOLOGY
 - **Impact:** 60% improvement in restocking accuracy
 
 ---
+## 📁 &nbsp; Project Portfolio — Real Work, Public & Verifiable
+
+> *Eight projects targeting exactly the roles above. Built with real public data. Pinned on this profile.*
+
+---
+
+### 📊 **01 — COVID-19 Pandemic: Comprehensive Data Analysis with SQL & Tableau**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![In Progress](https://img.shields.io/badge/University_at_Buffalo-Sep_2024_--_Dec_2024-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Business_Analyst-4A90E2?style=flat-square)
+
+**What it is:** End-to-end analysis of WHO COVID-19 dataset examining 150M+ cases, 3.18M+ deaths, infection rates, vaccination rollouts, and pandemic impact across continents and countries. Built complex SQL queries and interactive Tableau dashboard for executive insights.
+
+**What it shows a recruiter:**
+- ✓ I define analysis questions before diving into data — strategic thinking
+- ✓ SQL is not a tool I "know" — complex JOINs, CTEs, window functions prove mastery
+- ✓ Tableau dashboards designed for decisions, visualizing global trends and regional comparisons
+- ✓ Written insight narrative = I communicate findings, not just create visuals
+- ✓ Statistical rigor with percentage calculations, aggregations, and year-over-year trends
+
+**Stack:** `PostgreSQL` · `Tableau` · `Excel` · `SQL (JOINs, CTEs, Window Functions)` · `Data Visualization` · `Statistical Analysis`
+
+---
+
+### 🐍 **02 — Python Automation: Data Validation & Reporting Pipeline**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![University](https://img.shields.io/badge/Inspired_by_KPMG-Aug_2022_--_May_2024-e17055?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Business_Analyst_·_Data_Analyst-4A90E2?style=flat-square)
+
+**What it is:** Open-source version of the Python validation engine approach used at KPMG — applied to public datasets. Automates data quality checks, flags anomalies, validates data integrity, and generates formatted Excel reports. Exactly the kind of automation that contributed to 80% manual work reduction.
+
+**What it shows a recruiter:**
+- ✓ I automate the painful parts of analysis — not just describe them
+- ✓ My KPMG award-winning approach is documented and reproducible
+- ✓ Clean, commented, production-readable Python code with error handling
+- ✓ README explains the business problem first, then the technical solution
+- ✓ Enterprise-grade data quality practices applied to real-world scenarios
+
+**Stack:** `Python` · `Pandas` · `NumPy` · `OpenPyXL` · `Data Quality` · `Automation` · `Excel Reporting`
+
+---
+
+### 🍽️ **03 — NutriFlow: Smart Meal Planning App — End-to-End Product Design**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![University](https://img.shields.io/badge/University_at_Buffalo-Jan_2025_--_May_2025-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Product_Analyst_·_Business_Analyst-4A90E2?style=flat-square)
+
+**What it is:** Full customer discovery research and product design project for smart meal-planning application. Conducted 15+ user interviews identifying top food adaptation challenges for people settling into new cities. Designed high-fidelity prototype in Figma with automated grocery lists, recipe management, and nutritional tracking.
+
+**What it shows a recruiter:**
+- ✓ I understand users before I build solutions — Jobs-to-be-Done framework applied
+- ✓ Customer discovery is a Product Analyst superpower most BAs skip
+- ✓ Findings: 80%+ of food challenges identified, solution validated through usability testing
+- ✓ Written like a product strategy memo, not an academic paper
+- ✓ End-to-end product thinking from research → design → validation
+
+**Stack:** `Figma` · `Notion` · `User Research` · `Usability Testing` · `Product Requirements` · `JTBD Framework` · `Prototyping`
+
+---
+
+### 📈 **04 — Stock Portfolio Management System: B2C Investment Platform**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![University](https://img.shields.io/badge/University_at_Buffalo-Jan_2025_--_May_2025-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Product_Analyst-4A90E2?style=flat-square)
+
+**What it is:** B2C stock investment platform addressing tracking gaps. Built Python backend for portfolio calculations, SQL database for transaction management, and Tableau dashboards for performance visualization. Enables users to track portfolios, transactions, returns, and receive automated rebalancing alerts.
+
+**What it shows a recruiter:**
+- ✓ Full-stack thinking — backend logic + database design + frontend visualization
+- ✓ Financial domain knowledge with portfolio valuation and returns calculation
+- ✓ Real-time data processing with automated alert systems
+- ✓ Tableau used for actionable insights, not just pretty charts
+- ✓ Measured success with engagement (+20%) and efficiency (+30%) metrics
+
+**Stack:** `Python` · `SQL` · `Tableau` · `Pandas` · `Financial Analysis` · `Database Design` · `Data Modeling`
+
+---
+
+### 📚 **05 — Bookshop Inventory Analysis: Tableau Storyboard & Optimization**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![University](https://img.shields.io/badge/University_at_Buffalo-Jul_2024_--_Dec_2024-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Business_Intelligence-4A90E2?style=flat-square)
+
+**What it is:** Comprehensive analysis of bookshop data providing insights into book sales, author performance, customer engagement, and inventory management. Created three interconnected Tableau dashboards (Authors, Books, Genres) using calculated fields, parameters, and filter actions for drill-down analysis. Identified top 5 performing categories.
+
+**What it shows a recruiter:**
+- ✓ Advanced Tableau features mastery — calculated fields, parameters, actions
+- ✓ Data modeling with proper table joins and relational keys
+- ✓ Business impact focus — 60% improvement in restocking accuracy
+- ✓ Multiple stakeholder views (authors, inventory managers, executives)
+- ✓ Actionable insights that drive operational decisions
+
+**Stack:** `Tableau` · `SQL` · `Data Modeling` · `Calculated Fields` · `Parameters` · `Dashboard Design` · `Data Visualization`
+
+---
+
+### 🌍 **06 — UN Refugee Dataset: Global Displacement Trends Analysis**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![University](https://img.shields.io/badge/University_at_Buffalo-Sep_2024_--_Dec_2024-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Business_Intelligence-4A90E2?style=flat-square)
+
+**What it is:** Interactive Tableau storyboard analyzing UN refugee dataset with focus on global displacement patterns, demographics, geographic distribution, and host country responses. Performed geospatial analysis identifying top refugee-hosting countries, primary origin countries, and temporal trends in refugee movements.
+
+**What it shows a recruiter:**
+- ✓ Geospatial analysis capabilities with geographic data visualization
+- ✓ Complex storytelling with data — not just charts, but narrative flow
+- ✓ Humanitarian insights from quantitative analysis
+- ✓ Year-over-year trend analysis and regional impact assessment
+- ✓ Ability to work with international datasets and sensitive topics
+
+**Stack:** `Tableau` · `UN Refugee Data` · `Geospatial Analysis` · `Data Storytelling` · `Trend Analysis` · `Data Visualization`
+
+---
+
+### 🎵 **07 — Online DJ Management System: Full-Stack DBMS Application**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![College](https://img.shields.io/badge/BNM_Institute-Jan_2022_--_May_2022-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Business_Analyst_·_Full--Stack-4A90E2?style=flat-square)
+
+**What it is:** Database Management System application to effectively manage DJ events, bookings, equipment inventory, scheduling, pricing, and billing. Built with normalized relational schema, entity-relationship modeling, and referential integrity constraints. Complete CRUD operations with user authentication.
+
+**What it shows a recruiter:**
+- ✓ Database design fundamentals — normalization, ER modeling, constraints
+- ✓ Full-stack development capability (HTML, CSS, JavaScript, PHP, MySQL)
+- ✓ Business process understanding — booking workflows, inventory management
+- ✓ User authentication and authorization implementation
+- ✓ Real-world application solving actual business problem
+
+**Stack:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `Database Design` · `DBMS` · `ER Modeling`
+
+---
+
+### 🏠 **08 — KeyNest: Student Housing Platform — UI/UX Prototype**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
+![University](https://img.shields.io/badge/University_at_Buffalo-Sep_2024_--_Dec_2024-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Target_Role-Product_Analyst_·_UI/UX-4A90E2?style=flat-square)
+
+**What it is:** Marvel App prototype for secure, student-focused housing platform addressing scams faced by international students. Conducted user research, developed personas, created user journey maps, and designed complete solution with verified listings, secure in-app communication, photo verification, and review systems.
+
+**What it shows a recruiter:**
+- ✓ Problem identification through user research with target demographic
+- ✓ Design thinking process — personas, journey maps, wireframes to high-fidelity
+- ✓ Understanding of trust and safety features for digital platforms
+- ✓ Usability testing and feedback integration
+- ✓ Student-specific needs translated into product features
+
+**Stack:** `Marvel App` · `UI/UX Design` · `User Research` · `Prototyping` · `Persona Development` · `User Journey Mapping`
+
+---
+
+### 🤖 **BONUS — Automatic Git Commit Messages: Machine Learning Research**
+
+![Status](https://img.shields.io/badge/Status-✅_Complete_·_Published-1db954?style=flat-square)
+![College](https://img.shields.io/badge/BNM_Institute-Aug_2021_--_May_2022-0077b5?style=flat-square)
+![Target Role](https://img.shields.io/badge/Type-Machine_Learning_Research-3776AB?style=flat-square)
+
+**What it is:** Research project using Neural Machine Translation (NMT) to automatically generate meaningful git commit messages from code changes. Implemented sequence-to-sequence model training on large corpus of git commit history with code diff analysis. Published research findings on improving developer productivity and documentation consistency.
+
+**What it shows a recruiter:**
+- ✓ Machine learning and NLP fundamentals applied to real problem
+- ✓ Research methodology with published paper (academic rigor)
+- ✓ Understanding of software development workflows (git, version control)
+- ✓ Neural network implementation (TensorFlow/PyTorch)
+- ✓ Ability to bridge AI/ML with practical business applications
+
+**Stack:** `Python` · `TensorFlow/PyTorch` · `NLP` · `Neural Networks` · `Git` · `Machine Learning` · `Research Publication`
+
+---
 
 ## 🏅 &nbsp; Certifications — Continuously Learning
 

@@ -363,16 +363,16 @@ flowchart LR
 
 <div align="center">
 
-| 📊 Data Analysis | 🏗️ Data Engineering | 💼 Business Analysis | 🎨 Visualization |
-|:---|:---|:---|:---|
-| SQL (Expert) | ETL Pipeline Design | Requirements Elicitation | Tableau (Expert) |
-| Python (Advanced) | Azure Data Factory | BRD/FRD Writing | Power BI (Expert) |
-| R Programming | Data Modeling | Process Mapping (BPMN) | Looker |
-| Statistical Analysis | Database Architecture | Stakeholder Management | QuickSight |
-| Root Cause Analysis | Data Warehousing | Gap Analysis | Google Analytics |
-| A/B Testing | Data Governance | UAT Coordination | Excel Dashboards |
-| Predictive Modeling | Cloud Migration | Change Management | Data Storytelling |
-| Data Quality Audits | Performance Tuning | Agile/Scrum (CSPO®) | Executive Reporting |
+| 📊 Data Analysis | 🏗️ Data Engineering | 💼 Business Analysis | 🎨 Visualization | 🎯 Product Strategy & Ops |
+|:---|:---|:---|:---|:---|
+| SQL (Expert) | ETL Pipeline Design | Requirements Elicitation | Tableau (Expert) | Product Roadmapping |
+| Python (Advanced) | Azure Data Factory | BRD/FRD Writing | Power BI (Expert) | OKR Framework |
+| R Programming | Data Modeling | Process Mapping (BPMN) | Looker | Product Analytics |
+| Statistical Analysis | Database Architecture | Stakeholder Management | QuickSight | User Research & Testing |
+| Root Cause Analysis | Data Warehousing | Gap Analysis | Google Analytics | Competitive Analysis |
+| A/B Testing | Data Governance | UAT Coordination | Excel Dashboards | Go-to-Market Strategy |
+| Predictive Modeling | Cloud Migration | Change Management | Data Storytelling | Feature Prioritization |
+| Data Quality Audits | Performance Tuning | Agile/Scrum (CSPO®) | Executive Reporting | Market Sizing |
 
 </div>
 

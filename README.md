@@ -10,7 +10,7 @@
                           M Y S O R E   S A T H Y A N A R A Y A N A R A O
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=1DB954&center=true&vCenter=true&width=900&lines=Business+Analyst+%7C+Data+Strategist+%7C+ETL+Architect;Ex-KPMG+Big+4+%7C+UB+MIS+Grad+%7C+United+States;%242M%2B+saved+%C2%B7+80%25+efficiency+%C2%B7+98%25+satisfaction;I+turn+data+chaos+into+business+clarity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=1DB954&center=true&vCenter=true&width=1000&lines=Data+Analytics+%7C+AI+Solutions+%7C+Product+%7C+Strategy+%26+Operations;Ex-KPMG+Big+4+%7C+UB+MIS+Grad+%7C+CSPO%C2%AE+Certified;%242M%2B+saved+%C2%B7+%248M+identified+%C2%B7+99.8%25+document+accuracy;I+turn+complex+data+and+workflows+into+decisions+and+scalable+solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-![Hiring](https://img.shields.io/badge/🟢_ACTIVELY_SEEKING-Business_Analyst_·_Data_Analyst_·_Product_Analyst-1db954?style=for-the-badge)
+![Hiring](https://img.shields.io/badge/🟢_OPEN_TO_OPPORTUNITIES-Data_·_AI_·_Product_·_Strategy_%26_Ops-1db954?style=for-the-badge)
 
 </div>
 
@@ -33,8 +33,8 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   "Between every spreadsheet and every executive decision is a gap.       ║
-║    I live in that gap — and I close it with data-driven insights."       ║
+║   "I work where data, product, AI, and operations meet — turning          ║
+║    complex problems into measurable decisions, workflows, and products."  ║
 ║                                                                           ║
 ║                                              — Nagajyothi MS              ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
@@ -48,81 +48,86 @@
 
 ```python
 nagajyothi = {
-    "role"         : "Business Analyst | Data Strategist | ETL Architect",
-    "trained_by"   : ["KPMG Big 4 (2+ yrs)", "University at Buffalo MIS (3.8 GPA)"],
-    "superpower"   : "I translate technical complexity for executives and business needs for engineers",
+    "focus"        : [
+        "Business & Data Analytics",
+        "AI / RAG Solutions",
+        "Product & Business Analysis",
+        "Strategy & Operations",
+    ],
+    "experience"   : "3+ years across KPMG, AI solutions, analytics, and digital products",
+    "education"    : "MS in Management Information Systems — University at Buffalo (3.8/4.0)",
+    "superpower"   : "Turning ambiguous business and data problems into measurable, scalable solutions",
     "impact"       : {
-        "cost_savings"       : "$2,000,000+",
-        "efficiency_gained"  : "80% manual work eliminated",
-        "billing_accuracy"   : "$8M in discrepancies identified",
-        "stakeholder_trust"  : "98% satisfaction score",
-        "brand_growth"       : "37% visibility increase",
-        "faster_insights"    : "33% faster (72hrs → 48hrs)",
-        "team_productivity"  : "40% boost through mentorship",
+        "operational_savings" : "$2M+",
+        "billing_issues_found": "$8M",
+        "manual_work_reduced" : "80%",
+        "document_accuracy"   : "99.8%",
+        "visibility_growth"   : "37%",
+        "decision_speed"      : "45% faster",
+        "data_scale"          : "5x growth supported",
     },
-    "tech_stack"   : {
-        "languages"  : ["SQL", "Python", "R", "DAX"],
-        "viz_tools"  : ["Tableau", "Power BI", "Looker", "QuickSight"],
-        "cloud"      : ["Azure", "AWS", "GCP"],
-        "erp"        : ["SAP", "Oracle", "Workday", "Epicor"],
-        "etl"        : ["Alteryx", "Azure Databricks", "PySpark"],
+    "core_stack"   : {
+        "analytics" : ["SQL", "Python", "Excel", "Alteryx", "Data Modeling"],
+        "bi"        : ["Power BI", "Tableau", "Looker", "Google Analytics"],
+        "ai"        : ["RAG", "Azure OpenAI", "Azure AI Search", "Embeddings", "Hybrid Search"],
+        "cloud"     : ["Azure", "AWS", "GCP"],
+        "enterprise": ["SAP", "Oracle", "SharePoint"],
+        "delivery"  : ["Jira", "Confluence", "BPMN", "UAT", "Agile", "BRD/FRD"],
     },
-    "frameworks"   : ["Agile/Scrum", "BPMN", "BRD/FRD", "UAT", "CSPO®", "Data Governance"],
-    "location"     : "Buffalo, NY 🇺🇸 | Open to relocation",
-    "status"       : "🟢 Immediate availability — actively interviewing",
+    "status"       : "Open to Data, AI, Product, and Strategy & Operations opportunities",
 }
 ```
 
 ---
 
-## 🏆 &nbsp; Impact That Speaks Louder Than Words
+## 🏆 &nbsp; Impact That Speaks Louder Than Job Titles
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   💰 $2M+          📊 $8M          ⚡ 80%           📈 37%          ✅ 98%   │
-│   Operational      Billing         Manual Work      Brand          Stakeholder│
-│   Savings          Discrepancies   Eliminated       Growth         Satisfaction│
-│   Generated        Identified                       Achieved                  │
-│                                                                              │
-│   🚀 33%           👥 10+          📉 22%          ⏱️ 27%          🎯 5×     │
-│   Faster           Analysts        Margin          Extraction      Data       │
-│   Insights         Mentored        Variance        Efficiency      Growth     │
-│   Delivered        & Trained       Reduced         Improved        Supported  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   💰 $2M+           🔎 $8M           ⚡ 80%          🤖 99.8%        📈 37%     │
+│   Operational       Billing         Manual Work     Document        Online      │
+│   Savings           Issues Found    Reduced         Accuracy        Growth      │
+│                                                                                 │
+│   🎯 5×             📊 45%          🚀 33%          👥 10+          ✅ 50/50   │
+│   Data Growth       Faster          Faster          Analysts        Domain      │
+│   Supported         Decisions       Insights        Mentored        Validation  │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 &nbsp; Why I'm Built for BA | DA | PA Roles
+## 🎯 &nbsp; Where I Create Value
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                     │
-│   🔷  BUSINESS ANALYST                                                              │
-│   ──────────────────────────────────────────────────────────────────────────────   │
-│   I don't just document requirements — I architect solutions. At KPMG, I built     │
-│   the Enterprise Data Management system that cut insight delivery from 72 to       │
-│   48 hours (33% faster). I've written BRDs signed off by Fortune 500 clients,      │
-│   led cross-functional teams, and delivered audit-ready data for 15+ clients.      │
-│   Big 4 BA work is the hardest version of this role. Everything else is easier.    │
+│   📊  BUSINESS & DATA ANALYTICS                                                      │
+│   ──────────────────────────────────────────────────────────────────────────────    │
+│   I use SQL, Python, Excel, Alteryx, Power BI, and Tableau to move from raw data     │
+│   to business decisions. At KPMG, I analyzed 200K+ transactions, uncovered $8M      │
+│   in billing discrepancies, and helped build analytics workflows at enterprise scale.│
 │                                                                                     │
-│   🔶  DATA ANALYST                                                                  │
-│   ──────────────────────────────────────────────────────────────────────────────   │
-│   SQL isn't just a skill I "know" — it's how I think. I've built ETL pipelines    │
-│   processing millions of records daily with 99.9% accuracy, analyzed 200K+         │
-│   transactions to find $8M in billing gaps, and created Power BI dashboards used   │
-│   by 10+ business units. Data storytelling backed by statistical rigor.            │
+│   🤖  AI & INTELLIGENT AUTOMATION                                                    │
+│   ──────────────────────────────────────────────────────────────────────────────    │
+│   I build and evaluate practical AI workflows — document intelligence, RAG, hybrid   │
+│   retrieval, source validation, and secure Azure deployment. My current work spans   │
+│   3,374 project files, 26K+ knowledge records, and 99.8% extraction accuracy.        │
 │                                                                                     │
-│   🔹  PRODUCT ANALYST                                                               │
-│   ──────────────────────────────────────────────────────────────────────────────   │
-│   I define KPIs before building dashboards. At Community Dreams Foundation,        │
-│   I drove 37% brand growth through data-driven strategy and stakeholder            │
-│   alignment. I understand user behavior, track conversion funnels, and translate   │
-│   metrics into product decisions. CSPO® certified with real-world execution.       │
+│   🎯  PRODUCT & BUSINESS ANALYSIS                                                    │
+│   ──────────────────────────────────────────────────────────────────────────────    │
+│   I translate user and stakeholder needs into requirements, KPIs, user stories,      │
+│   UAT plans, dashboards, and prioritized workflows. I have worked across Product,    │
+│   Engineering, QA, and business teams on AI and digital-product initiatives.         │
+│                                                                                     │
+│   ⚙️  STRATEGY & OPERATIONS                                                         │
+│   ──────────────────────────────────────────────────────────────────────────────    │
+│   I diagnose bottlenecks, redesign processes, automate reporting, and establish      │
+│   measurable operating rhythms. My work has reduced manual effort by 80%, improved   │
+│   reporting cadence, and contributed to $2M+ in operational savings.                 │
 │                                                                                     │
 └─────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -131,222 +136,146 @@ nagajyothi = {
 
 ---
 
-## 💼 &nbsp; KPMG — Where The Numbers Came From
+## 🤖 &nbsp; Current Role — AI Solutions Engineer
 
 <div align="center">
 
-`🏢 KPMG LLP US` &nbsp;·&nbsp; `Business Data Associate` &nbsp;·&nbsp; `Aug 2022 – May 2024`
+`🏢 Control Infotech Inc` &nbsp;·&nbsp; `AI Solutions Engineer` &nbsp;·&nbsp; `Aug 2026 – Present`
 
-**Big 4 Consulting · Fortune 500 Clients · Audit & Advisory**
+**Document Intelligence · RAG · Azure AI · Enterprise Search**
 
 </div>
 
-| # | Business Problem | My Solution | Outcome |
+| Challenge | What I Built | Outcome |
+|:---|:---|:---:|
+| Thousands of project files difficult to search and analyze | Document extraction, cleaning, chunking, and deduplication workflow | **3,374 files · 1,831 docs · 99.8% accuracy** |
+| Enterprise knowledge retrieval needed quality validation | Python RAG workflow with embeddings, hybrid search, semantic matching, and source validation | **18 PASS · 2 PARTIAL · 0 FAIL** |
+| AI solution required secure enterprise deployment | FastAPI + Azure OpenAI + Azure AI Search + SharePoint + Entra ID | **26K+ knowledge records** |
+| Domain responses needed evidence-based testing | Structured benchmark and domain validation | **50/50 validation queries** |
+
+---
+
+## 💼 &nbsp; KPMG — Analytics at Enterprise Scale
+
+<div align="center">
+
+`🏢 KPMG Global Delivery Center` &nbsp;·&nbsp; `Business Data Analyst` &nbsp;·&nbsp; `Aug 2022 – May 2024`
+
+**Big 4 · Enterprise Analytics · ETL · Reporting Automation**
+
+</div>
+
+| # | Business Problem | My Approach | Outcome |
 |:---:|:---|:---|:---:|
-| 1 | Slow, manual reporting killing productivity | Automated ETL pipelines (SQL, Python, Azure) | **80% ↓ manual work** |
-| 2 | Operational costs spiraling out of control | Pipeline optimization + root cause analysis | **$2M+ saved** 💰 |
-| 3 | Billing accuracy issues across clients | Excel, Alteryx & SQL analysis of 200K+ records | **$8M identified** |
-| 4 | Margin variance eroding profitability | Cross-functional data analysis | **22% ↓ variance** |
-| 5 | Data extraction bottlenecks | Led Oracle & SAP COE team | **27% ↑ efficiency** |
-| 6 | Leadership lacked real-time KPI visibility | Power BI & Tableau dashboards for 10+ units | **45% faster decisions** |
-| 7 | Business insights took 3 days to deliver | Architected Enterprise Data Management system | **72hrs → 48hrs (33%)** |
-| 8 | Team lacked advanced analytics skills | Mentored 10+ analysts on modeling, Azure, QA | **40% ↑ productivity** |
-| 9 | Monthly data quality issues undermining trust | Weekly audits + governance framework | **98% satisfaction** ⭐ |
-| 10 | Data growth outpacing infrastructure | Scaled ETL pipelines for high-volume ingestion | **5× data growth** |
-
-**Awards:** 🏆 Client Service Excellence Award | ⭐ Rising Star Award – Q1
+| 1 | Data volume outgrew existing workflows | Scaled Azure data pipelines with SQL and Python | **5× data growth supported** |
+| 2 | Reporting was slow and manual | Automated monthly-to-weekly reporting workflows | **80% ↓ manual effort · $2M+ savings** |
+| 3 | Billing inconsistencies needed investigation | Analyzed 200K+ transactions using SQL, Excel, and Alteryx | **$8M identified** |
+| 4 | Leadership lacked consistent KPI visibility | Built Power BI and Tableau dashboards across 4 regions | **45% faster decisions** |
+| 5 | Insights took too long to reach stakeholders | Redesigned enterprise data-management workflows | **72 hrs → 48 hrs** |
+| 6 | Analytics capability needed scaling | Mentored 10+ analysts in modeling, QA, visualization, and Azure Databricks | **40% ↑ productivity** |
 
 ---
 
-## 📂 &nbsp; Current Role — Community Dreams Foundation
+## 💼 &nbsp; Additional Experience
 
-<div align="center">
+### 🌐 Holiday Channel® | Business Analyst
+**Jul 2026 | AI-Powered Travel Platform**
 
-`🏢 Community Dreams Foundation` &nbsp;·&nbsp; `Business Analyst` &nbsp;·&nbsp; `Sep 2025 – Present`
-
-**Digital Transformation · Operations Optimization**
-
-</div>
-
-### 🎯 What I'm Delivering Right Now
-
-```yaml
-Challenge_1:
-  problem: "Poor online brand visibility limiting donor reach"
-  solution: "Dashboard development + stakeholder requirements gathering"
-  outcome: "37% ↑ online brand visibility"
-
-Challenge_2:
-  problem: "Manual sales performance tracking slowing decisions"
-  solution: "Automated analytics workflows across 5 teams"
-  outcome: "15% ↓ report generation time"
-```
+- Prioritized product improvements for a platform covering **1,000+ global holidays** using Google Analytics and stakeholder input across **4 functional groups**
+- Led product discovery, requirements elicitation, data mapping, backlog refinement, and UAT across **4 core workflows**
+- Defined and monitored **6+ product and operational KPIs** across conversion, adoption, engagement, funnel completion, UAT, and defect leakage
 
 ---
 
-## 💼 &nbsp; Additional Professional Experience
+### 📈 Community Dreams Foundation | Business Analyst
+**Oct 2025 – Jul 2026 | Digital Analytics · Process Improvement**
 
-### 🎯 Ruffalo Noel Levitz | Engagement Operations Ambassador
-**University at Buffalo, NY | Mar 2025 – May 2025 (3 months)**
-
-<table>
-<tr>
-<td width="60%">
-
-**What I Did:**
-- Managed multi-channel outreach campaigns to 5,000+ alumni and donors via RNL Engage platform
-- Achieved 98% transaction accuracy under pressure, contributing to successful university fundraising efforts
-- Increased alumni campaign participation by 15% through targeted engagement strategies
-
-</td>
-<td width="40%">
-
-**Impact:**
-- 📊 **5,000+** contacts managed
-- ✅ **98%** accuracy rate
-- 📈 **15% ↑** participation
-
-**Skills:** Stakeholder Engagement · Data Management · Fundraising · Communication
-
-</td>
-</tr>
-</table>
+- Analyzed market, portfolio, and campaign performance while developing automated dashboards across **5 cross-functional teams**
+- Increased online visibility by **37%** and reduced reporting time by **15%**
+- Translated stakeholder needs into measurable dashboard and workflow improvements
 
 ---
 
-### 🔐 Legacy Guard | Product Analyst
-**University at Buffalo, NY | Jan 2025 – May 2025 (5 months)**
+### 🎓 Ruffalo Noel Levitz | Engagement Operations Ambassador
+**University at Buffalo | Mar 2025 – May 2025**
 
-**Experiential IT Apprenticeship - MIS Capstone Project**
-
-<table>
-<tr>
-<td width="50%">
-
-**The Challenge:**
-- Launch a secure digital vault for credential inheritance
-- Compete with established players (LastPass, Bitwarden, Dropbox Vault)
-- Convert trial users to paid subscribers
-- Validate product-market fit
-
-</td>
-<td width="50%">
-
-**My Approach:**
-- Led product development from concept to launch
-- Conducted 20+ user research interviews
-- Translated insights into product requirements
-- Managed product backlog and prioritization
-- Performed competitive analysis
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**📈 Results:**
-- ✅ **30% increase** in trial-to-paid conversions
-- ✅ Product launched on schedule and within budget
-- ✅ Identified 3 key differentiators vs. competitors
-- ✅ Created 12-month product roadmap
-- ✅ Achieved 4.5/5 user satisfaction score
-
-**Skills Applied:** Product Strategy · User Research · BRD · Competitive Analysis · Agile · CSPO® · UAT · Product Backlog Management
-
-</td>
-</tr>
-</table>
+- Led multi-channel outreach to **5,000+ alumni and donors** through RNL Engage
+- Used audience segmentation and campaign metrics to increase participation by **15%**
+- Maintained **98%+ accuracy** in high-volume gift processing and performance reporting
 
 ---
 
-### 🔒 TEQUED LABS PVT LTD | Analyst
-**Bangalore, India | Aug 2021 – Sep 2021 (2 months)**
+### 🔐 Legacy Guard | Product Management Apprenticeship
+**University at Buffalo | Jan 2025 – May 2025**
 
-**Cybersecurity & Data Security Internship**
-
-- Focused on **LSB Image Steganography** to hide confidential images using advanced decoding techniques
-- Acquired proficiency in **ethical hacking and cybersecurity**, enhancing secure data handling techniques
-- Developed skills in **Java** for server-side applications and **Python** for security tasks
-- Gained knowledge of **MySQL** and contributed to safeguarding high-security data, including sensitive passwords
-
-**Skills:** Ethical Hacking · Cybersecurity · Java · Python · MySQL · Data Security · Image Steganography
-
----
-**Key Skills Applied:** Requirements Gathering · Dashboard Development · Stakeholder Management · Data Analysis · Process Automation
+- Translated user feedback into BRDs, FRDs, user stories, and future-state workflows
+- Synthesized input from **30+ users** into product-quality insights
+- Applied Agile testing, BPMN, and UAT to support a **95%+ UAT pass rate**
 
 ---
 
-## 🛠️ &nbsp; Tech Stack — Production-Grade Proficiency
+## 🛠️ &nbsp; Tech Stack — What I Actually Use
 
 <div align="center">
 
 **[ DATA & ANALYTICS ]**
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-4A90E2?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-6A5ACD?style=for-the-badge)
 
-**[ VISUALIZATION & BI ]**
+**[ BUSINESS INTELLIGENCE ]**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-**[ CLOUD PLATFORMS ]**
+**[ GENERATIVE AI & SEARCH ]**
+
+![RAG](https://img.shields.io/badge/RAG-Enterprise_AI-7B61FF?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic_Search-8A2BE2?style=for-the-badge)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-Retrieval-5A67D8?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**[ CLOUD & ENTERPRISE ]**
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**[ ENTERPRISE SYSTEMS ]**
-
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Workday](https://img.shields.io/badge/Workday-0066FF?style=for-the-badge)
-![Epicor](https://img.shields.io/badge/Epicor-FF6B35?style=for-the-badge)
-
-**[ ETL & DATA ENGINEERING ]**
-
-![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-4285F4?style=for-the-badge)
-
-**[ DELIVERY TOOLS ]**
-
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-**[ BA FRAMEWORKS & TOOLS ]**
+**[ PRODUCT & DELIVERY ]**
 
 ![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![CSPO](https://img.shields.io/badge/CSPO®-Certified-FF9800?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-Process_Mapping-e17055?style=for-the-badge)
-![BRD](https://img.shields.io/badge/BRD%2FFRD-Requirements-4A90E2?style=for-the-badge)
 ![UAT](https://img.shields.io/badge/UAT-Testing-7B1FA2?style=for-the-badge)
-![Data Governance](https://img.shields.io/badge/Data_Governance-00C853?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
 ---
 
-## 🔁 &nbsp; How I Work — The Full BA/DA Delivery Cycle
+## 🔁 &nbsp; How I Work — From Ambiguity to Outcome
 
 ```mermaid
 flowchart LR
-    A(["🎯 UNDERSTAND\nStakeholder interviews\nRequirements gathering"]) --> B(["📊 ANALYZE\nSQL · Python · R\nStatistical analysis"])
-    B --> C(["🗺️ MAP\nBPMN process flows\nGap analysis · SWOT"])
-    C --> D(["🔧 BUILD\nETL pipelines\nData modeling"])
-    D --> E(["✅ VALIDATE\nUAT · QA · Data audits\nAccuracy checks"])
-    E --> F(["📈 VISUALIZE\nTableau · Power BI\nExecutive dashboards"])
-    F --> G(["💡 DELIVER\nActionable insights\nBusiness recommendations"])
-    G -.->|"🔁 Iterate & Optimize"| A
+    A(["🎯 DISCOVER\nBusiness problem\nUser / stakeholder need"]) --> B(["📊 ANALYZE\nSQL · Python · Excel\nPerformance & root cause"])
+    B --> C(["🗺️ DEFINE\nRequirements · KPIs\nProcess / data mapping"])
+    C --> D(["🔧 BUILD\nDashboards · ETL\nAI / RAG workflows"])
+    D --> E(["✅ VALIDATE\nUAT · QA · Benchmarks\nData quality"])
+    E --> F(["🚀 DEPLOY\nAzure · Reporting\nProduct workflows"])
+    F --> G(["📈 MEASURE\nKPIs · Adoption\nBusiness impact"])
+    G -.->|"🔁 Learn & Iterate"| A
 
     style A fill:#0d1117,color:#2E9EF7,stroke:#2E9EF7,stroke-width:2px
     style B fill:#0d1117,color:#0077b5,stroke:#0077b5,stroke-width:2px
@@ -359,253 +288,110 @@ flowchart LR
 
 ---
 
-## 🧠 &nbsp; Core Competencies — Honest & Verifiable
+## 🧠 &nbsp; Core Competencies — Across Domains
 
 <div align="center">
 
-| 📊 Data Analysis | 🏗️ Data Engineering | 💼 Business Analysis | 🎨 Visualization | 🎯 Product Strategy & Ops |
+| 📊 Data & Analytics | 🤖 AI & Automation | 💼 Business Analysis | 🎯 Product | ⚙️ Strategy & Ops |
 |:---|:---|:---|:---|:---|
-| SQL (Expert) | ETL Pipeline Design | Requirements Elicitation | Tableau (Expert) | Product Roadmapping |
-| Python (Advanced) | Azure Data Factory | BRD/FRD Writing | Power BI (Expert) | OKR Framework |
-| R Programming | Data Modeling | Process Mapping (BPMN) | Looker | Product Analytics |
-| Statistical Analysis | Database Architecture | Stakeholder Management | QuickSight | User Research & Testing |
-| Root Cause Analysis | Data Warehousing | Gap Analysis | Google Analytics | Competitive Analysis |
-| A/B Testing | Data Governance | UAT Coordination | Excel Dashboards | Go-to-Market Strategy |
-| Predictive Modeling | Cloud Migration | Change Management | Data Storytelling | Feature Prioritization |
-| Data Quality Audits | Performance Tuning | Agile/Scrum (CSPO®) | Executive Reporting | Market Sizing |
+| SQL & Python | RAG Workflows | Requirements Elicitation | Product Discovery | Process Improvement |
+| Data Modeling | Azure OpenAI | BRD / FRD | KPI Development | Business Performance |
+| Statistical Analysis | Azure AI Search | Gap Analysis | User Stories | Root Cause Analysis |
+| ETL / Data Pipelines | Embeddings | BPMN / Process Mapping | Backlog Refinement | Workflow Automation |
+| Data Quality | Hybrid Search | UAT / QA | Feature Prioritization | Operating Metrics |
+| Power BI / Tableau | Prompt Engineering | Stakeholder Management | Product Analytics | Cross-functional Execution |
+| Alteryx / Excel | FastAPI Integration | Agile / Scrum | User Research | Executive Reporting |
 
 </div>
 
 ---
 
-## 📊 &nbsp; Skill Depth — Production Experience, Not Just Courses
+## 📁 &nbsp; Project Portfolio
 
-```
-DATA ANALYSIS & QUERYING
-  SQL                         ████████████████████  100%   2+ yrs KPMG · Fortune 500 clients
-  Python (Pandas, NumPy)      ████████████████░░░░   80%   ETL automation · $2M+ savings
-  R Programming               ████████████░░░░░░░░   60%   Statistical analysis · Coursework
-  Excel (Advanced)            ████████████████████  100%   Financial modeling · OPEX analysis
-
-BUSINESS INTELLIGENCE
-  Tableau                     ████████████████████  100%   Production dashboards · 10+ units
-  Power BI + DAX              ████████████████████  100%   Executive reporting · Real-time KPIs
-  Looker                      ████████████░░░░░░░░   65%   Analytics platform experience
-  QuickSight                  ████████████░░░░░░░░   65%   AWS cloud visualization
-
-CLOUD & PLATFORMS
-  Microsoft Azure             ████████████████░░░░   85%   ETL pipelines · Databricks · Certified
-  AWS                         ████████████░░░░░░░░   70%   Cloud Foundations certified
-  GCP                         ████████████░░░░░░░░   60%   Cloud computing coursework
-  SAP                         ████████████████░░░░   80%   COE Extraction Team lead
-  Oracle ERP                  ████████████████░░░░   80%   Enterprise data extraction
-
-ETL & DATA ENGINEERING
-  Alteryx                     ████████████████░░░░   85%   Workflow automation at KPMG
-  Azure Databricks            ████████████░░░░░░░░   70%   Big data processing
-  PySpark                     ████████████░░░░░░░░   65%   Distributed computing
-  Data Modeling               ████████████████████  100%   Dimensional modeling · Star schema
-
-BA METHODOLOGY
-  Agile / Scrum               ████████████████████  100%   CSPO® certified · 2+ yrs practice
-  Requirements (BRD/FRD)      ████████████████████  100%   Client sign-offs at KPMG
-  Process Mapping (BPMN)      ████████████████░░░░   85%   End-to-end workflow design
-  UAT & QA                    ████████████████████  100%   Weekly data audits · 98% accuracy
-  Stakeholder Management      ████████████████████  100%   Fortune 500 clients · C-suite
-  Root Cause Analysis         ████████████████░░░░   85%   $8M billing discrepancy detection
-  Data Governance             ████████████████░░░░   80%   Enterprise Data Management system
-```
+> *Projects that show how I think across analytics, product, and AI — not just which tools I know.*
 
 ---
 
-## 📁 &nbsp; Project Portfolio — Academic & Real Impact
+### 📊 **01 — COVID-19 Pandemic Data Analysis**
 
-> *Eight projects targeting exactly the roles above. Built with real public data. Pinned on this profile.*
+![Status](https://img.shields.io/badge/Status-Complete-1db954?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Data_Analytics_·_BI-4A90E2?style=flat-square)
 
----
+**What it is:** Analysis of 150M+ COVID-19 records across 200+ countries using SQL and Tableau to evaluate infection trends, mortality, vaccination progress, and geographic patterns.
 
-### 📊 **01 — COVID-19 Pandemic: Comprehensive Data Analysis with SQL & Tableau**
+**What it demonstrates:**
+- Complex SQL analysis on large public datasets
+- Data validation and trend analysis
+- Tableau storytelling for decision-ready insights
+- Ability to communicate technical findings clearly
 
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![In Progress](https://img.shields.io/badge/University_at_Buffalo-Sep_2024_--_Dec_2024-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Business_Analyst-4A90E2?style=flat-square)
-
-**What it is:** End-to-end analysis of WHO COVID-19 dataset examining 150M+ cases, 3.18M+ deaths, infection rates, vaccination rollouts, and pandemic impact across continents and countries. Built complex SQL queries and interactive Tableau dashboard for executive insights.
-
-**What it shows a recruiter:**
-- ✓ I define analysis questions before diving into data — strategic thinking
-- ✓ SQL is not a tool I "know" — complex JOINs, CTEs, window functions prove mastery
-- ✓ Tableau dashboards designed for decisions, visualizing global trends and regional comparisons
-- ✓ Written insight narrative = I communicate findings, not just create visuals
-- ✓ Statistical rigor with percentage calculations, aggregations, and year-over-year trends
-
-**Stack:** `PostgreSQL` · `Tableau` · `Excel` · `SQL (JOINs, CTEs, Window Functions)` · `Data Visualization` · `Statistical Analysis`
+**Stack:** `SQL` · `Tableau` · `Excel` · `Data Visualization` · `Statistical Analysis`
 
 ---
 
-### 🐍 **02 — Python Automation: Data Validation & Reporting Pipeline**
+### 🍽️ **02 — NutriFlow: Smart Nutrition & Pantry Management**
 
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![University](https://img.shields.io/badge/Inspired_by_KPMG-Aug_2022_--_May_2024-e17055?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Business_Analyst_·_Data_Analyst-4A90E2?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-1db954?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Product_·_User_Research-FF9800?style=flat-square)
 
-**What it is:** Open-source version of the Python validation engine approach used at KPMG — applied to public datasets. Automates data quality checks, flags anomalies, validates data integrity, and generates formatted Excel reports. Exactly the kind of automation that contributed to 80% manual work reduction.
+**What it is:** End-to-end product concept for a smart nutrition and pantry-management application, using customer discovery, user journey mapping, and competitive analysis.
 
-**What it shows a recruiter:**
-- ✓ I automate the painful parts of analysis — not just describe them
-- ✓ My KPMG award-winning approach is documented and reproducible
-- ✓ Clean, commented, production-readable Python code with error handling
-- ✓ README explains the business problem first, then the technical solution
-- ✓ Enterprise-grade data quality practices applied to real-world scenarios
+**What it demonstrates:**
+- Product thinking from problem discovery through solution design
+- User journey mapping and customer research
+- Competitive analysis and market-opportunity assessment
+- Translation of user needs into product features and workflows
 
-**Stack:** `Python` · `Pandas` · `NumPy` · `OpenPyXL` · `Data Quality` · `Automation` · `Excel Reporting`
+**Impact:** **25% improvement in user alignment** · **30% market opportunity identified**
 
----
-
-### 🍽️ **03 — NutriFlow: Smart Meal Planning App — End-to-End Product Design**
-
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![University](https://img.shields.io/badge/University_at_Buffalo-Jan_2025_--_May_2025-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Product_Analyst_·_Business_Analyst-4A90E2?style=flat-square)
-
-**What it is:** Full customer discovery research and product design project for smart meal-planning application. Conducted 15+ user interviews identifying top food adaptation challenges for people settling into new cities. Designed high-fidelity prototype in Figma with automated grocery lists, recipe management, and nutritional tracking.
-
-**What it shows a recruiter:**
-- ✓ I understand users before I build solutions — Jobs-to-be-Done framework applied
-- ✓ Customer discovery is a Product Analyst superpower most BAs skip
-- ✓ Findings: 80%+ of food challenges identified, solution validated through usability testing
-- ✓ Written like a product strategy memo, not an academic paper
-- ✓ End-to-end product thinking from research → design → validation
-
-**Stack:** `Figma` · `Notion` · `User Research` · `Usability Testing` · `Product Requirements` · `JTBD Framework` · `Prototyping`
+**Stack:** `Product Strategy` · `User Journey Mapping` · `Competitive Analysis` · `Requirements` · `Prototyping`
 
 ---
 
-### 📈 **04 — Stock Portfolio Management System: B2C Investment Platform**
+### 🤖 **03 — Enterprise RAG Knowledge Assistant**
 
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![University](https://img.shields.io/badge/University_at_Buffalo-Jan_2025_--_May_2025-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Product_Analyst-4A90E2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI_·_RAG_·_Enterprise_Search-7B61FF?style=flat-square)
 
-**What it is:** B2C stock investment platform addressing tracking gaps. Built Python backend for portfolio calculations, SQL database for transaction management, and Tableau dashboards for performance visualization. Enables users to track portfolios, transactions, returns, and receive automated rebalancing alerts.
+**What it is:** Enterprise retrieval workflow combining document intelligence, embeddings, hybrid search, source validation, Azure OpenAI, and Azure AI Search.
 
-**What it shows a recruiter:**
-- ✓ Full-stack thinking — backend logic + database design + frontend visualization
-- ✓ Financial domain knowledge with portfolio valuation and returns calculation
-- ✓ Real-time data processing with automated alert systems
-- ✓ Tableau used for actionable insights, not just pretty charts
-- ✓ Measured success with engagement (+20%) and efficiency (+30%) metrics
+**What it demonstrates:**
+- Large-scale document processing and knowledge preparation
+- RAG evaluation using benchmark and domain-validation queries
+- Secure enterprise deployment patterns
+- Ability to bridge AI engineering, analytics, and business requirements
 
-**Stack:** `Python` · `SQL` · `Tableau` · `Pandas` · `Financial Analysis` · `Database Design` · `Data Modeling`
+**Impact:** **99.8% extraction accuracy** · **26K+ knowledge records** · **50/50 domain validation**
 
----
-
-### 📚 **05 — Bookshop Inventory Analysis: Tableau Storyboard & Optimization**
-
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![University](https://img.shields.io/badge/University_at_Buffalo-Jul_2024_--_Dec_2024-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Business_Intelligence-4A90E2?style=flat-square)
-
-**What it is:** Comprehensive analysis of bookshop data providing insights into book sales, author performance, customer engagement, and inventory management. Created three interconnected Tableau dashboards (Authors, Books, Genres) using calculated fields, parameters, and filter actions for drill-down analysis. Identified top 5 performing categories.
-
-**What it shows a recruiter:**
-- ✓ Advanced Tableau features mastery — calculated fields, parameters, actions
-- ✓ Data modeling with proper table joins and relational keys
-- ✓ Business impact focus — 60% improvement in restocking accuracy
-- ✓ Multiple stakeholder views (authors, inventory managers, executives)
-- ✓ Actionable insights that drive operational decisions
-
-**Stack:** `Tableau` · `SQL` · `Data Modeling` · `Calculated Fields` · `Parameters` · `Dashboard Design` · `Data Visualization`
+**Stack:** `Python` · `RAG` · `Azure OpenAI` · `Azure AI Search` · `FastAPI` · `Hybrid Search`
 
 ---
 
-### 🌍 **06 — UN Refugee Dataset: Global Displacement Trends Analysis**
+### 📈 **04 — Stock Portfolio Management System**
 
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![University](https://img.shields.io/badge/University_at_Buffalo-Sep_2024_--_Dec_2024-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Data_Analyst_·_Business_Intelligence-4A90E2?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-1db954?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Analytics_·_Financial_Data-4479A1?style=flat-square)
 
-**What it is:** Interactive Tableau storyboard analyzing UN refugee dataset with focus on global displacement patterns, demographics, geographic distribution, and host country responses. Performed geospatial analysis identifying top refugee-hosting countries, primary origin countries, and temporal trends in refugee movements.
+**What it is:** B2C investment platform combining Python, SQL, and Tableau for portfolio tracking, transaction management, returns analysis, and performance visualization.
 
-**What it shows a recruiter:**
-- ✓ Geospatial analysis capabilities with geographic data visualization
-- ✓ Complex storytelling with data — not just charts, but narrative flow
-- ✓ Humanitarian insights from quantitative analysis
-- ✓ Year-over-year trend analysis and regional impact assessment
-- ✓ Ability to work with international datasets and sensitive topics
+**What it demonstrates:**
+- Financial and transactional data analysis
+- Database and data-model design
+- Dashboarding for user-facing insights
+- Analytical thinking applied to a product use case
 
-**Stack:** `Tableau` · `UN Refugee Data` · `Geospatial Analysis` · `Data Storytelling` · `Trend Analysis` · `Data Visualization`
+**Stack:** `Python` · `SQL` · `Tableau` · `Pandas` · `Financial Analysis` · `Data Modeling`
 
 ---
 
-### 🎵 **07 — Online DJ Management System: Full-Stack DBMS Application**
-
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![College](https://img.shields.io/badge/BNM_Institute-Jan_2022_--_May_2022-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Business_Analyst_·_Full--Stack-4A90E2?style=flat-square)
-
-**What it is:** Database Management System application to effectively manage DJ events, bookings, equipment inventory, scheduling, pricing, and billing. Built with normalized relational schema, entity-relationship modeling, and referential integrity constraints. Complete CRUD operations with user authentication.
-
-**What it shows a recruiter:**
-- ✓ Database design fundamentals — normalization, ER modeling, constraints
-- ✓ Full-stack development capability (HTML, CSS, JavaScript, PHP, MySQL)
-- ✓ Business process understanding — booking workflows, inventory management
-- ✓ User authentication and authorization implementation
-- ✓ Real-world application solving actual business problem
-
-**Stack:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `Database Design` · `DBMS` · `ER Modeling`
-
----
-
-### 🏠 **08 — KeyNest: Student Housing Platform — UI/UX Prototype**
-
-![Status](https://img.shields.io/badge/Status-✅_Complete-1db954?style=flat-square)
-![University](https://img.shields.io/badge/University_at_Buffalo-Sep_2024_--_Dec_2024-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Target_Role-Product_Analyst_·_UI/UX-4A90E2?style=flat-square)
-
-**What it is:** Marvel App prototype for secure, student-focused housing platform addressing scams faced by international students. Conducted user research, developed personas, created user journey maps, and designed complete solution with verified listings, secure in-app communication, photo verification, and review systems.
-
-**What it shows a recruiter:**
-- ✓ Problem identification through user research with target demographic
-- ✓ Design thinking process — personas, journey maps, wireframes to high-fidelity
-- ✓ Understanding of trust and safety features for digital platforms
-- ✓ Usability testing and feedback integration
-- ✓ Student-specific needs translated into product features
-
-**Stack:** `Marvel App` · `UI/UX Design` · `User Research` · `Prototyping` · `Persona Development` · `User Journey Mapping`
-
----
-
-### 🤖 **BONUS — Automatic Git Commit Messages: Machine Learning Research**
-
-![Status](https://img.shields.io/badge/Status-✅_Complete_·_Published-1db954?style=flat-square)
-![College](https://img.shields.io/badge/BNM_Institute-Aug_2021_--_May_2022-0077b5?style=flat-square)
-![Target Role](https://img.shields.io/badge/Type-Machine_Learning_Research-3776AB?style=flat-square)
-
-**What it is:** Research project using Neural Machine Translation (NMT) to automatically generate meaningful git commit messages from code changes. Implemented sequence-to-sequence model training on large corpus of git commit history with code diff analysis. Published research findings on improving developer productivity and documentation consistency.
-
-**What it shows a recruiter:**
-- ✓ Machine learning and NLP fundamentals applied to real problem
-- ✓ Research methodology with published paper (academic rigor)
-- ✓ Understanding of software development workflows (git, version control)
-- ✓ Neural network implementation (TensorFlow/PyTorch)
-- ✓ Ability to bridge AI/ML with practical business applications
-
-**Stack:** `Python` · `TensorFlow/PyTorch` · `NLP` · `Neural Networks` · `Git` · `Machine Learning` · `Research Publication`
-
----
-
-## 🏅 &nbsp; Certifications — Continuously Learning
+## 🏅 &nbsp; Certifications
 
 <div align="center">
 
-![Google Data Analytics](https://img.shields.io/badge/✔_Google_Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![CSPO](https://img.shields.io/badge/✔_Certified_Scrum_Product_Owner_(CSPO®)-FF9800?style=for-the-badge)
+![Google Data Analytics](https://img.shields.io/badge/✔_Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CSPO](https://img.shields.io/badge/✔_Certified_Scrum_Product_Owner-FF9800?style=for-the-badge)
 ![AWS Foundations](https://img.shields.io/badge/✔_AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Security](https://img.shields.io/badge/✔_AWS_Cloud_Security_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft AI](https://img.shields.io/badge/✔_Microsoft_AI_Skills_Fest_2025-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Data Analysis R](https://img.shields.io/badge/✔_Data_Analysis_with_R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Data Viz](https://img.shields.io/badge/✔_Share_Data_Through_Art_of_Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
@@ -615,60 +401,59 @@ BA METHODOLOGY
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🎓  MASTER OF SCIENCE IN MANAGEMENT INFORMATION SYSTEMS                     ║
-║      University at Buffalo, SUNY  ·  Buffalo, NY  ·  Jul 2024 – Jun 2025    ║
-║      GPA: 3.8/4.0                                                            ║
-║                                                                              ║
-║      Coursework: Data Warehousing · Cloud Computing · Data Visualization    ║
-║                  Gen AI · Applied AI · DBMS · Advanced Analytics            ║
+║  🎓  MASTER OF SCIENCE IN MANAGEMENT INFORMATION SYSTEMS                   ║
+║      University at Buffalo, SUNY  ·  Jul 2024 – Jun 2025                  ║
+║      GPA: 3.8/4.0                                                          ║
+║                                                                            ║
+║      Coursework: Data Warehousing · Cloud Computing · Data Visualization  ║
+║                  Gen AI · Applied AI · DBMS                                ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🎓  BACHELOR OF ENGINEERING IN COMPUTER SCIENCE                             ║
-║      BNM Institute of Technology, VTU  ·  Bangalore  ·  Jun 2018 – Jul 2022 ║
-║                                                                              ║
-║      Foundation in software engineering, algorithms, database systems       ║
+║  🎓  BACHELOR OF ENGINEERING IN COMPUTER SCIENCE                           ║
+║      BNM Institute of Technology, VTU  ·  Jun 2018 – Jul 2022             ║
+║                                                                            ║
+║      Foundation in software engineering, algorithms, and databases        ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌟 &nbsp; The Real Differentiator
+## 🌟 &nbsp; The Differentiator
 
 ```
-┌──────────────────────────────────────┬─────────────────────────────────────────────┐
-│   What Most Candidates Say           │   What My Profile Proves                    │
-├──────────────────────────────────────┼─────────────────────────────────────────────┤
-│  "Strong SQL skills"                 │  SQL that generated $2M+ in savings         │
-│  "Experience with Tableau"           │  Dashboards used by 10+ business units      │
-│  "Worked on ETL projects"            │  Built pipelines processing millions daily  │
-│  "Team player"                       │  Mentored 10+ analysts, 40% productivity ↑  │
-│  "Python knowledge"                  │  Python automation = 80% manual work gone   │
-│  "Data quality focus"                │  98% stakeholder satisfaction achieved      │
-│  "Big 4 experience"                  │  KPMG: Fortune 500 clients, $8M identified  │
-│  "Good communicator"                 │  Stakeholder management across C-suite      │
-│  "Process improvement mindset"       │  33% faster insights (72hrs → 48hrs)        │
-│  "Detail-oriented"                   │  200K+ transactions analyzed with precision │
-└──────────────────────────────────────┴─────────────────────────────────────────────┘
+┌──────────────────────────────────────┬──────────────────────────────────────────────┐
+│   What I Bring                       │   Evidence                                   │
+├──────────────────────────────────────┼──────────────────────────────────────────────┤
+│  Enterprise analytics               │  200K+ transactions · $8M identified         │
+│  Automation mindset                 │  80% manual effort reduced · $2M+ savings    │
+│  Scalable data work                 │  5× growth · millions of daily records       │
+│  AI implementation                  │  RAG · Azure OpenAI · 26K+ knowledge records │
+│  AI quality mindset                 │  18 PASS · 2 PARTIAL · 0 FAIL               │
+│  Product thinking                   │  KPIs · discovery · UAT · prioritization     │
+│  Cross-functional execution         │  Product · Engineering · QA · Business       │
+│  Visualization & storytelling       │  Power BI · Tableau · 45% faster decisions  │
+│  Leadership                         │  10+ analysts mentored · 40% productivity ↑  │
+└──────────────────────────────────────┴──────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📦 &nbsp; Artifacts I Deliver — Not Just Talk
+## 📦 &nbsp; Artifacts I Can Deliver
 
 ```
-  ◉  Business Requirements Documents (BRD)      — stakeholder-signed, zero ambiguity
-  ◉  Functional Requirements Documents (FRD)     — dev-ready, testable, traceable
-  ◉  Process Maps & BPMN Diagrams                — current state vs. future state
-  ◉  User Stories + Acceptance Criteria          — clear, actionable, prioritized
-  ◉  Executive Dashboards (Tableau, Power BI)    — decision-grade, not decorative
-  ◉  ETL Pipeline Documentation                  — architecture that survives turnover
-  ◉  Data Quality Audit Reports                  — 100+ monthly anomalies resolved
-  ◉  UAT Test Plans & Validation Reports         — nothing ships unvalidated
-  ◉  Root Cause Analysis Reports                 — $8M in billing issues caught
-  ◉  KPI Frameworks & Operational Metrics        — tied to real business outcomes
-  ◉  Stakeholder Communication Plans             — RACI matrices, status reports
-  ◉  Data Governance Documentation               — policies, procedures, standards
+  ◉  Data Analysis & Root Cause Reports             — findings tied to business action
+  ◉  Executive Dashboards                           — Power BI · Tableau · KPI reporting
+  ◉  ETL / Data Pipeline Workflows                  — scalable, validated, documented
+  ◉  Data Quality & Validation Frameworks           — repeatable checks and auditability
+  ◉  Business & Functional Requirements             — BRD · FRD · user stories
+  ◉  Process Maps & Gap Analysis                    — current state vs. future state
+  ◉  UAT Plans & Acceptance Criteria                — measurable validation
+  ◉  Product KPI Frameworks                         — adoption · conversion · quality
+  ◉  RAG Evaluation & Retrieval Workflows           — grounding · search · validation
+  ◉  AI-enabled Enterprise Search                   — Azure OpenAI · Azure AI Search
+  ◉  Operational Improvement Recommendations        — metrics before and after
 ```
 
+---
 
 ## 📊 &nbsp; GitHub Stats
 
@@ -682,25 +467,25 @@ BA METHODOLOGY
 
 ---
 
-
-## 💡 &nbsp; What I'm Currently Building
+## 💡 &nbsp; What I'm Building Toward
 
 ```yaml
-🎯 Active Projects:
-  - Building public portfolio projects demonstrating BA/DA skills
-  - Contributing to open-source data analytics repositories
-  - Documenting KPMG methodologies in reproducible case studies
-  
-📚 Currently Learning:
-  - Advanced Machine Learning for business analytics
-  - Generative AI applications in data analysis
-  - Cloud data warehousing (Snowflake, BigQuery)
-  - Advanced product analytics frameworks
+🎯 Current Focus:
+  - Business and data analytics at enterprise scale
+  - Practical GenAI and RAG applications
+  - AI-enabled product and workflow automation
+  - Product analytics and operational decision systems
 
-🔮 Career Goals:
-  - Lead data strategy for high-growth tech company
-  - Build products that impact millions through data insights
-  - Mentor next generation of business analysts
+📚 Deepening:
+  - RAG evaluation and retrieval quality
+  - Azure AI architecture and enterprise search
+  - Advanced analytics and experimentation
+  - Product metrics and AI-enabled operating workflows
+
+🔮 Career Direction:
+  - Solve high-impact business problems with data and AI
+  - Build products and operating systems that teams actually adopt
+  - Grow at the intersection of analytics, AI, product, and strategy
 ```
 
 ---
@@ -712,8 +497,8 @@ BA METHODOLOGY
 ║                                                                           ║
 ║                 📬   LET'S CONNECT                                        ║
 ║                                                                           ║
-║   I don't just fill BA · DA · PA roles. I deliver measurable ROI.        ║
-║   Let's discuss how I can create impact for your team.                   ║
+║   Data gives me the signal. Product gives it direction.                   ║
+║   AI and operations help turn it into scalable impact.                    ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -728,7 +513,7 @@ BA METHODOLOGY
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Ex-KPMG+Big+4.+UB+MIS+Grad+(3.8+GPA).+CSPO®+Certified.+Ready+Now.;Business+Analyst+·+Data+Analyst+·+Product+Analyst;%242M%2B+saved+·+80%25+efficient+·+98%25+trusted+·+37%25+growth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Ex-KPMG+Big+4+%C2%B7+UB+MIS+(3.8+GPA)+%C2%B7+CSPO%C2%AE+Certified;Data+Analytics+%C2%B7+AI+Solutions+%C2%B7+Product+%C2%B7+Strategy+%26+Operations;%242M%2B+saved+%C2%B7+%248M+identified+%C2%B7+99.8%25+document+accuracy)](https://git.io/typing-svg)
 
 <br/>
 
@@ -740,8 +525,8 @@ BA METHODOLOGY
 
 <div align="center">
 
-**⭐ If my profile resonates with your needs, let's connect and create impact together!**
+**⭐ If your team is solving hard data, AI, product, or operational problems, let's connect.**
 
-<sub>Last Updated: February 2026 | Built with precision by Nagajyothi MS</sub>
+<sub>Last Updated: October 2026 | Built by Nagajyothi MS</sub>
 
 </div>
